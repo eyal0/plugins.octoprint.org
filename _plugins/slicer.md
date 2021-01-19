@@ -4,15 +4,15 @@ layout: plugin
 id: slicer
 title: Full-featured Slicer
 description: A full-blown GUI-based slicer. Rotate and scale model; slice multiple STL files at a time; set layer height and other slicing settings.
-author: Kenneth Jiang
+author: eyal0
 license: AGPLv3
     
 # today's date in format YYYY-MM-DD, e.g.
 date: 2016-09-22
     
-homepage: https://github.com/kennethjiang/OctoPrint-Slicer
-source: https://github.com/kennethjiang/OctoPrint-Slicer
-archive: https://github.com/kennethjiang/OctoPrint-Slicer/archive/master.zip
+homepage: https://github.com/eyal0/OctoPrint-Slicer
+source: https://github.com/eyal0/OctoPrint-Slicer
+archive: https://github.com/eyal0/OctoPrint-Slicer/archive/master.zip
     
 # set this to true if your plugin uses the dependency_links setup parameter to include
 # library versions not yet published on PyPi. SHOULD ONLY BE USED IF THERE IS NO OTHER OPTION!
